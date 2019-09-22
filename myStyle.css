@@ -120,6 +120,12 @@ img:last-of-type {
   transform: translateZ(-1px) scale(2);
 }
 
+#slide3_1 {
+  background-image: url("image/slide_3_1.jpg");
+  max-width: 120%;
+  z-index:2;
+}
+
 #slide4 {
   background: #222;
 }
