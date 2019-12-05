@@ -126,6 +126,12 @@ img:last-of-type {
   z-index:2;
 }
 
+#slide3_2 {
+  background-image: url("image/slide_3_2.jpeg");
+  max-width: 120%;
+  z-index:2;
+}
+
 #slide4 {
   background: #222;
 }
